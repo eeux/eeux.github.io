@@ -1,0 +1,39 @@
+.home .banner,
+.home .site-header {
+    background: #fff;
+    color: #000;
+}
+
+.home .banner .collection-head {
+    color: #fff;
+    background: #1d2b2d;
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.home .site-header {
+    border-bottom: none
+}
+
+.home .site-header h1 a {
+    color: #000;
+}
+
+.home .site-header .site-header-nav-item {
+    color: rgba(56, 50, 50, 0.91);
+}
+
+.home .site-header .site-header-nav-item:hover {
+    color: #009688;
+}
+
+
+@media (max-width:50em) {
+  .home .collapsed .icon-bar {
+    background-color: white;
+  }
+
+  .home .collection-head .collection-header {
+    font-size: 1.25em;
+  }
+}

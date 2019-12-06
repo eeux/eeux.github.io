@@ -1,0 +1,54 @@
+- name: online tools
+  url: http://tools.dynamicdrive.com/
+
+- name: html color picker
+  url: https://htmlcolorcodes.com/color-picker/
+
+- name: photo enlarger
+  url: https://www.photoenlarger.com/
+
+- name: Gif compressor
+  url: https://gifcompressor.com/zh/
+
+- name: gradient-generator
+  url: http://www.cssmatic.com/gradient-generator
+
+- name: Ultimate CSS Gradient Generator
+  url: http://www.colorzilla.com/gradient-editor/
+
+- name: CSS Generators -CSSREFLEX
+  url: http://www.cssreflex.com/css-generators/
+
+- name: tiny png
+  url: https://tinypng.com/
+
+- name: online regex
+  url: https://regex101.com/
+
+## Resources
+
+- name: FontEndNav
+  url: http://nav.web-hub.cn/
+
+- name: icons
+  url: https://icons8.com/
+
+- name: iconfinder
+  url: https://www.iconfinder.com/
+
+- name: 256 color sheet
+  url: https://jonasjacek.github.io/colors/
+
+- name: wallpaper
+  url: https://wallhaven.cc/
+
+## Programming
+
+
+## Editor
+
+
+## Other blogs
+
+- name: coolshell
+  url: https://coolshell.cn/
